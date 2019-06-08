@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Carme%7CCarter+One&display=swap');body{
+
+    font-family: 'Carme', sans-serif;}#logo{
+ 
+    text-align: left;
+ 
+ }header{
+ 
+    width: 100%;
+ 
+    background: #419A1C
+ 
+ ;
+ 
+    height: 20px;
+ 
+ }a{
+ 
+    color: black;
+ 
+    text-decoration: none;
+ 
+ }a:hover{
+ 
+    color: bisque;
+ 
+ }h2{
+ 
+    font-family: 'Carter One', cursive;
+ 
+    text-shadow: 2px 3px 6px #419A1C
+ 
+ ;
+ 
+ }p{
+ 
+    text-align: center;
+ 
+    margin-left: 10%;
+ 
+    margin-right: 10%;
+ 
+ }.profile-photo{
+ 
+    width: 100px;
+ 
+    height: 100px;
+ 
+ }.team{
+ 
+    width: 15%;
+ 
+    height: 15%;
+ 
+    border: 1px #419A1C
+ 
+ solid;
+ 
+    display: inline-block;
+ 
+    text-align: center;
+ 
+    border-radius: 20%;}address iframe{
+ 
+    float: left;
+ 
+ }.social-media{
+ 
+    width: 30px;
+ 
+ }img{
+ 
+    width: 15%;
+ 
+ }#Copyright{
+ 
+    clear: both;
+ 
+    text-align: left;
+ 
+ }address{
+ 
+    clear: both;
+ 
+ }
+ 
+ Message Input

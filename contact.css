@@ -1,31 +1,7 @@
-body{
-    background-color: aquamarine;
-    background-position: right;
-    background-position: 80px;
-   background-repeat: no-repeat;
-}
 
-h1 {
-    text-align: center;
-    color: blue;
-}
-.media{
-    background-position: left;
-    color: blue;
-    position: fixed;
-    right: 0;
-    border-radius: 5px;
 
-}
 
-i {
-    color: blue;
-    
-}
 
-.right{
-    text-align: center;
-}
 
 
 
