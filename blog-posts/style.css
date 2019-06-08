@@ -1,0 +1,39 @@
+ul {
+    list-style-image: url('../images/tic.png');
+  }
+
+#conclusion-left {
+    position: relative;
+    left: 0;
+    margin: 5px;
+}
+
+#conclusion-right {
+    position: relative;
+    right: 0;
+    margin: 5px;
+    padding: 10px;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+}
+
+div.polaroid {
+    width: 90%;
+    height: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div p {
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
