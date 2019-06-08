@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+
+
+h1 {
+    text-align: center;
+    color: green;
+} 
+
+#thread {
+    color: blueviolet;
+}
+
+h3{
+    color: darkblue;
+    text-align: center;
+}
+
+#rm {
+    text-align: right;
+
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+
+table{
+    background: none;
+}
